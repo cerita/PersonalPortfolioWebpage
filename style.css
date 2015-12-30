@@ -1,0 +1,26 @@
+body {
+		font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+#about {
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		height: 100vh;
+		padding-top: 10%;
+}
+
+#portfolio {
+		background: url("http://images.unsplash.com/photo-1444201716572-c60ec66d0494?q=80&fm=jpg&w=1080&fit=max&s=fabd8c50315d37ebf48ec7bf682db460");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		min-height: 100vh;
+}
+
+#contact {
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		min-height: 100vh;
+}
